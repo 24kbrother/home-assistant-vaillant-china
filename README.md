@@ -43,7 +43,7 @@ Home Assistant custom component for controlling vSmart in Vaillant+ cn app.
 #### HACS
 Click the following link to add to your Home Assistant.
 
-[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=daxingplay&repository=home-assistant-vaillant-china&category=integration)
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=24kbrother&repository=home-assistant-vaillant-china&category=integration)
 
 Or you can search for `Vaillant Plus` in your HACS.
 
