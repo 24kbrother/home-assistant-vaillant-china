@@ -1,0 +1,2 @@
+homeassistant
+vaillant-plus-cn-api
